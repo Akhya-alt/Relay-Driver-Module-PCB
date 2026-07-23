@@ -64,27 +64,27 @@ When an input signal is applied, the BC547 transistor switches ON and energizes 
 
 ### Circuit Schematic
 
-![Circuit Schematic](images/Circuit_Schematic.png)
+![Circuit Schematic](images/schematic_ckt_diagram.jpeg)
 
 ### PCB Layout
 
-![PCB Layout](images/PCB_Top.png)
+![PCB Layout](images/PCB.jpeg)
 
 ### PCB Routing
 
-![PCB Routing](images/PCB_Tracing.png)
+![PCB Routing](images/PCB_Tracing.jpeg)
 
 ### 3D Front View
 
-![PCB 3D Front](images/PCB_3D_Front.png)
+![PCB 3D Front](images/PCB_3D_Front.jpeg)
 
 ### 3D Back View
 
-![PCB 3D Back](images/PCB_3D_Back.png)
+![PCB 3D Back](images/PCB_3D_Back.jpeg)
 
 ### 3D Side View
 
-![PCB 3D Side](images/PCB_3D_Side.png)
+![PCB 3D Side](images/PCB_3D_side.png)
 
 ---
 
